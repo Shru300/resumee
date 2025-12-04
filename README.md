@@ -69,18 +69,3 @@ I am a passionate Computer Science student specializing in **Gaming Technology**
 * **NDA:** Qualified NDA written exam (May 2023).
 * **Volunteering:** Core Member of **NSS Unit** VIT Bhopal; Lead at Mega Tree Plantation Drive (2025).
 
----
-
-## 📝 How to Build This Resume
-This repository contains the source code for my resume written in **LaTeX**.
-
-1.  **Clone the repo:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR-USERNAME]/[YOUR-REPO-NAME].git
-    ```
-2.  **Compile:**
-    * Upload the `.tex` file to [Overleaf](https://www.overleaf.com/).
-    * Or use a local LaTeX editor (like TeXShop or VS Code with LaTeX Workshop) to build the PDF.
-
----
-*Updated: December 2025*
