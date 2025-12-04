@@ -67,5 +67,5 @@ I am a passionate Computer Science student specializing in **Gaming Technology**
 ### 🌟 Leadership & Academics
 * **MS-CIT Batch Topper:** Secured **98%** (Maharashtra State Certificate in Information Technology).
 * **NDA:** Qualified NDA written exam (May 2023).
-* **Volunteering:** Core Member of **NSS Unit** VIT Bhopal; Lead at Mega Tree Plantation Drive (2025).
+* **Volunteering:** Core Member of **NSS Unit** VIT Bhopal; Lead at Mega Tree Plantation Drive (2025);lead of PR & OUTREACH TEAM LINPACK CLUB VIT Bhopal.
 
