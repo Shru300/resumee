@@ -62,7 +62,7 @@ I am a passionate Computer Science student specializing in **Gaming Technology**
 ### 🏅 Sports
 * **National Level:** Selected for **Petanque** and **Sepak Takraw**.
 * **State Level:** Player in **Kabaddi**, Shotput, and Sepak Takraw.
-* **University:** AdVITya 2025 Kabaddi Winners; AdVITya 2024 Kabaddi Runner Up.
+* **University:** AdVITya 2025 Kabaddi Winners; AdVITya 2026,2024 Kabaddi Runner Up.(Annual sport fest)2
 
 ### 🌟 Leadership & Academics
 * **MS-CIT Batch Topper:** Secured **98%** (Maharashtra State Certificate in Information Technology).
