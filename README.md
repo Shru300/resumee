@@ -1,7 +1,7 @@
 # Resume
 # 📄 Resume: Shruti Lavkesh Rathi
 
-### 🎓 B.Tech Computer Science | Specialization in Gaming Technology.
+### 🎓 B.Tech Computer Science | Engineering Specialization in Gaming Technology.
 **VIT Bhopal University** | *CGPA: 8.51/10*
 
 ---
